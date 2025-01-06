@@ -24,3 +24,7 @@ Sample
 source: https://www.youtube.com/watch?v=3vfGvJvMiEI&t=45s&ab_channel=NarkolasRjl
 
 https://www.youtube.com/watch?v=7Vavpc7gqqo&t=149s&ab_channel=SAMPACKPACKINGMACHINERY
+
+### Required Blade length
+- outer blade diameter = 22 inches => circumference = 2PiR = 2x3.14x22 = 138.16 inches = 11.5 ft
+- inner blade diamenter = 18 inches => circumference = 2PiR = 2x3.14x18 = 113.1 inches = 9.4 ft
